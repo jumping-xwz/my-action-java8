@@ -3,6 +3,7 @@
 此处列出我关于 Java8 的学习实践。
 
 - [Lambda in action](lambda-in-action.md) https://github.com/java8/Java8InAction.git
+- [《Java 8函数式编程》](functional-programming.md)
 
 # HandBook
 
